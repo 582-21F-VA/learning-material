@@ -1,0 +1,20 @@
+{
+    "fmt": {
+        "indentWidth": 4
+    },
+    "lint": {
+        "rules": {
+            "include": [
+                "explicit-function-return-type"
+            ]
+        }
+    },
+    "compilerOptions": {
+        "lib": ["ESNext", "dom", "deno.ns"],
+        "strict": true,
+        "noUnusedLocals": true,
+        "allowUnreachableCode": false,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true
+    }
+}

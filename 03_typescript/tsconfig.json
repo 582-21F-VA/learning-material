@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "esNext",
+        "strict": true,
+        "noUnusedLocals": true,
+        "allowUnreachableCode": false,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true
+    }
+}
